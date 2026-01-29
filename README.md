@@ -40,6 +40,10 @@ Start here:
   Formats to keep chat involved between sub goals  
   → `playbooks/subathon-engagement-playbook.md`
 
+- **Viewer Engagement Playbook**  
+  Practical formats to keep viewers involved throughout a stream  
+  → `playbooks/viewer-engagement-playbook.md`
+
 Each playbook focuses on:
 - low-effort participation
 - visible outcomes (votes, rankings)
