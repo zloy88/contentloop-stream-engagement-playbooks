@@ -23,3 +23,8 @@ The templates in this repo can be used with tools like ContentLoop
 to collect ideas, votes, and viewer input in real time.
 
 Learn more: https://contentloop.gg/why-contentloop
+
+## License
+
+This work is licensed under the Creative Commons Attribution-NonCommercial 4.0
+International License (CC BY-NC 4.0).
